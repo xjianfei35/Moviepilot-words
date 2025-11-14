@@ -4,6 +4,9 @@ The.Hunter.S01(?=.*(?:2024)) => 猎冰.The.Hunter.2024.S01
 #唐朝诡事录之长安
 Horror Stories Of Tang Dynasty Ⅲ =>  唐朝诡事录3 {(tmdbid=202910;type=tv;s=3)}
 
+#最后生还者
+The.Last.of.Us.The.Complete.Series => 最后生还者 {(tmdbid=100088;type=tv;s=1)}
+
 #宗师列传.唐宋八大家
 宗师列传·唐宋八大家.Tang.Song.Ba.Da.Jia => 宗师列传·唐宋八大家 {(tmdbid=288159;type=tv;s=1)}
 
